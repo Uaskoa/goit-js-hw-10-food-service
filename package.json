@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uaskoa/goit-js-hw-10-food-service"
+    "url": "git+https://github.com/Uaskoa/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
   "author": "Anna Shevchenko <uaskoa@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Uaskoa/goit-js-hw-10-food-service"
+    "url": "https://github.com/Uaskoa/goit-js-hw-10-food-service/issues"
   },
   "homepage": "https://uaskoa.github.io/goit-js-hw-10-food-service/",
   "devDependencies": {
