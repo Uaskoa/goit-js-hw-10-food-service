@@ -2,7 +2,6 @@ import './styles.css';
 import menuItems from './menu.json';
 import itemsTemplate from './templates/gallery-items.hbs';
 
-
 const markup = itemsTemplate(menuItems);
 const menuGalleryRef = document.querySelector('.js-menu');
 const toggleRef = document.querySelector('#theme-switch-toggle');
@@ -38,7 +37,3 @@ function checkTheme() {
     bodyRef.setAttribute('class', Theme.DARK);
   }
 }
-
-
-
-
